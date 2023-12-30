@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/class-routine/static/css/main.e94c68f2.css",
+    "main.js": "/class-routine/static/js/main.a0f7f00a.js",
+    "index.html": "/class-routine/index.html",
+    "main.e94c68f2.css.map": "/class-routine/static/css/main.e94c68f2.css.map",
+    "main.a0f7f00a.js.map": "/class-routine/static/js/main.a0f7f00a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e94c68f2.css",
+    "static/js/main.a0f7f00a.js"
+  ]
+}
